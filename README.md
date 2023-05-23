@@ -41,7 +41,7 @@ The autoencoder takes the image data, compress it to a small latent space and th
 
 
 
-## Convolution Neural Networks
+## 10_Convolution Neural Networks
 
 Convolution neural networks (CNNs) have gained unparalleled popularity in computer vision tasks. A convolution neural network consists of several important components, such as,
 
