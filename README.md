@@ -1,4 +1,11 @@
 # Machine Learning 
+It is the process of teaching computers to learn from data.
+There are three types of ML:
+
+'Supervised learning'
+'Unsupervised learning'
+'Reinforcement learning'
+
 ## 01_Model on titanic dataset
 I have tried to build a model using RandomForestRegressor based on titanic dataset which gives a prediction on survival. RandomForestRegressor is a machine learning algorithm that works by creating a team of decision makers called "decision trees." 
 
