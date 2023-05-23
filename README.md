@@ -31,3 +31,27 @@ I have applied TSNE(T-Distributed Stochastic Neighbour Embedding) on MNIST 784 d
 
 ## 08_Tensorflow
 Implemented tensorlow.nn.convolution on an image and tried to find the shape of the output image.
+
+
+
+## 09_Fully-Connected Neural Networks
+An autoencoder is primarly used to be trained in an unsupervised fashion. This means the model can be trained just using inputs, and no labels. 
+
+The autoencoder takes the image data, compress it to a small latent space and then reconstruct the image from the compressed latent space values. This is a great way to provide useful features using unsupervised data, for supervised models.
+
+
+
+## Convolution Neural Networks
+
+Convolution neural networks (CNNs) have gained unparalleled popularity in computer vision tasks. A convolution neural network consists of several important components, such as,
+
+* Convolution layers
+* Pooling layers
+* Dense layers (for final prediction)
+
+We will use CNNs to learn the Cifar10 dataset. Like MNIST, Cifar10 is another popular dataset in computer vision. But it is a much more interesting dataset as you will see. Specifically, I will go through the following.
+
+* How to do simple data exploration
+* How to define a CNN model
+* How to format data to suit model training
+* How to train a model
