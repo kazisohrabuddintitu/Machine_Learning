@@ -27,3 +27,7 @@ The DBSCAN (Density-Based Spatial Clustering of Applications with Noise) algorit
 
 ## 07_TSNE
 I have applied TSNE(T-Distributed Stochastic Neighbour Embedding) on MNIST 784 dataset then did plot. Then applied PCA, LDA(Linear Discriminant Analysis) and GaussianRandomProjection to plot.
+
+
+## 08_Tensorflow
+Implemented tensorlow.nn.convolution on an image and tried to find the shape of the output image.
