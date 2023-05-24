@@ -62,3 +62,14 @@ We will use CNNs to learn the Cifar10 dataset. Like MNIST, Cifar10 is another po
 * How to define a CNN model
 * How to format data to suit model training
 * How to train a model
+
+
+## 11_Recurrence Neural Network
+Recurrent Neural Networks (RNNs) are a type of neural network that are designed to handle sequential data, where the order of the elements matters.. Recurrent neural networks (RNNs) have proven their success in learning from time-series data.
+
+In this chapter, we will use a RNN to learn to predict CO2 concentration levels in the next 5 years. Specifically, the following.
+
+* How to do simple data exploration on time series data
+* How to define a RNN model
+* How to transfrom time series data to train a sequential model
+* How to train a model
