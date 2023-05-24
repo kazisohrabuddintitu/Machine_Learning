@@ -73,3 +73,7 @@ In this chapter, we will use a RNN to learn to predict CO2 concentration levels 
 * How to define a RNN model
 * How to transfrom time series data to train a sequential model
 * How to train a model
+
+
+## 12_TensorBoard
+TensorBoard is a powerful visualization tool provided by TensorFlow that allows to visualize and analyze various aspects of machine learning models. It provides an interactive and intuitive interface for monitoring and understanding the training process, model architecture, and performance metrics.
