@@ -1,0 +1,27 @@
+Classifiers return as classes or categories but Regressor return as continuous numerical values.
+
+
+(1) DecisionTreeRegressor
+
+It is a machine learning algorithm that is used for solving regression problems. It builds a decision tree model based on the input features and their corresponding target values.
+
+
+
+(2) RandomForestRegressor
+
+It is a machine learning algorithm that uses an ensemble of decision trees to solve regression problems. It is an extension of the DecisionTreeRegressor and offers improved predictive performance by combining multiple decision trees.
+
+
+
+(3) RandomForestClassifier
+
+The RandomForestClassifier is a machine learning algorithm that uses an ensemble of decision trees to solve classification problems. It is an extension of the DecisionTreeClassifier and offers improved predictive performance by combining multiple decision trees.
+
+
+
+(4) PCA(Principle Component Analysis)
+
+It is a dimensionality reduction technique used to transform high-dimensional data into a lower-dimensional representation while preserving the most important information or patterns in the data.
+
+
+
