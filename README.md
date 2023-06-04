@@ -77,3 +77,7 @@ In this chapter, we will use a RNN to learn to predict CO2 concentration levels 
 
 ## 12_TensorBoard
 TensorBoard is a powerful visualization tool provided by TensorFlow that allows to visualize and analyze various aspects of machine learning models. It provides an interactive and intuitive interface for monitoring and understanding the training process, model architecture, and performance metrics.
+
+
+## 13_FrozenLake with Q-Learning
+Here I've tried to implement reinforcement learning using frozenlake environment from gym library. I've trained my agent for a certain time and then tested on the environment to see the success rate. 
