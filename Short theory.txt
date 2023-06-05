@@ -24,4 +24,9 @@ The RandomForestClassifier is a machine learning algorithm that uses an ensemble
 It is a dimensionality reduction technique used to transform high-dimensional data into a lower-dimensional representation while preserving the most important information or patterns in the data.
 
 
+(5) GridSearchCV
+It helps to find the best hyperparameter for the model by finding all possibile combinations and does cross validation on those combinations.
 
+
+(6) RamdomizedSearchCV
+It randomly samples a specified numbers of combinations and find the best hyperparameters.
