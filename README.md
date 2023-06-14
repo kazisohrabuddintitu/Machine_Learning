@@ -81,3 +81,7 @@ TensorBoard is a powerful visualization tool provided by TensorFlow that allows 
 
 ## 13_FrozenLake with Q-Learning
 Here I've tried to implement reinforcement learning using frozenlake environment from gym library. I've trained my agent for a certain time and then tested on the environment to see the success rate. 
+
+
+# NLP/Transformer
+Here I've implemented pipeline from Transformer in `FastAPI`. To run the program create virtual environment, activate the environment, install requirements.txt and run `uvicorn main:app --reload` and go to `http://127.0.0.1:port/docs` to use input and see the output.
